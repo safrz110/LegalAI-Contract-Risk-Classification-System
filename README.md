@@ -323,7 +323,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ##  Author
 
-#Sarfaraz Ali#
+Sarfaraz Ali
 
 ⭐ **Star this repo if you find it useful!**
 
